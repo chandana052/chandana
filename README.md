@@ -1,2 +1,5 @@
 # chandana
 AdvanceedJava
+
+
+ListOperations.java: https://github.com/chandana052/chandana/blob/main/Screenshot%202026-04-19%20182958.png
