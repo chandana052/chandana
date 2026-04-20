@@ -86,6 +86,8 @@ https://github.com/chandana052/chandana/blob/main/Screenshot%202026-04-20%201909
 https://github.com/chandana052/chandana/blob/main/Screenshot%202026-04-20%20191736.png
 https://github.com/chandana052/chandana/blob/main/Screenshot%202026-04-20%20191747.png
 
+9c.java:
+https://github.com/chandana052/chandana/blob/main/Screenshot%202026-04-20%20193054.png
 
 
 
