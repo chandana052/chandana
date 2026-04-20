@@ -70,6 +70,7 @@ https://github.com/chandana052/chandana/blob/main/Screenshot%202026-04-20%201751
 
 7a.java:
 https://github.com/chandana052/chandana/blob/main/Screenshot%202026-04-20%20200552.png
+https://github.com/chandana052/chandana/blob/main/Screenshot%202026-04-20%20200600.png
 
 
 7b.java:
