@@ -90,6 +90,9 @@ https://github.com/chandana052/chandana/blob/main/Screenshot%202026-04-20%201917
 https://github.com/chandana052/chandana/blob/main/Screenshot%202026-04-20%20193054.png
 https://github.com/chandana052/chandana/blob/main/Screenshot%202026-04-20%20193107.png
 
+10a.java:
+https://github.com/chandana052/chandana/blob/main/Screenshot%202026-04-20%20193958.png
+
 
 
 
