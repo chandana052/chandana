@@ -60,6 +60,9 @@ https://github.com/chandana052/chandana/blob/main/Screenshot%202026-04-19%202217
 prime.java:
 https://github.com/chandana052/chandana/blob/main/Screenshot%202026-04-19%20225530.png
 
+factorial.java:
+https://github.com/chandana052/chandana/blob/main/Screenshot%202026-04-20%20174720.png
+
 
 
 
