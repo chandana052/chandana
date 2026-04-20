@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Result</title>
+    <script>
+        function validateForm() {
+            let fields = document.forms["form"].elements;
+
+            for (let i = 0; i < fields.length; i++) {
+                if (fields[i].value === "") {
+                    alert("All fields required");
+                    return false;
+                }
+            }
+            return true;
+        }
+    </script>
+</head>
+<body>
+
+<h2>Student Marks</h2>
+
+<form name="form" action="ResultServlet" method="post" onsubmit="return validateForm()">
+    Roll No: <input type="text" name="roll"><br><br>
+    Name: <input type="text" name="name"><br><br>
+
+    Sub1: <input type="number" name="s1"><br>
+    Sub2: <input type="number" name="s2"><br>
+    Sub3: <input type="number" name="s3"><br>
+    Sub4: <input type="number" name="s4"><br>
+    Sub5: <input type="number" name="s5"><br><br>
+
+    <input type="submit" value="Calculate">
+</form>
+
+</body>
+</html>
